@@ -1,0 +1,22 @@
+{
+  "name": "jscangaceiro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m3nd3s/jscangaceiro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m3nd3s/jscangaceiro/issues"
+  },
+  "homepage": "https://github.com/m3nd3s/jscangaceiro#readme",
+  "devDependencies": {
+    "eslint": "^7.13.0"
+  }
+}
