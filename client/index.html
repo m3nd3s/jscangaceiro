@@ -61,9 +61,13 @@
 
     <script src="app/domain/negociacao/negociacao.js" charset="utf-8"></script>
     <script charset="utf-8">
+      console.clear();
+
       var n1 = new Negociacao(new Date(), 5, 700);
 
-      console.log(n1.quantidade);
+      console.log(n1.data)
+      n1.data.setDate(11);
+      console.log(n1.data)
     </script>
   </body>
 </html>
